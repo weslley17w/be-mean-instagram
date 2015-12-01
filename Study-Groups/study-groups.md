@@ -9,6 +9,7 @@
 - [Jean Silva](https://github.com/fjeansilva)
 - [Itacir Pompeu](https://github.com/Pompeu )
 - [Mauricio Gravena](https://github.com/maugravena)
+- [Weslley Barros](https://github.com/weslley17w/)
 
 ## Node.js
 - [Lucas Moreira](https://github.com/fauker)
